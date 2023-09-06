@@ -1,0 +1,5 @@
+
+rgb(227, 220, 210) lichte kleur voor kaart
+rgb(204, 139, 101) oranje achtig
+rgb(1, 51, 40) donkergroen
+rgb(16, 12, 13) bijna zwart
